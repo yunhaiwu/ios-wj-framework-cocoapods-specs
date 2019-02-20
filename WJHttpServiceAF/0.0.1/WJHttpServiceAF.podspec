@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 
-s.name         = "WJHttpServceAF"
+s.name         = "WJHttpServiceAF"
 s.version      = "0.0.1"
 s.summary      = "http service for afnetworking."
 
@@ -30,6 +30,6 @@ s.frameworks = "Foundation", "UIKit"
 
 s.requires_arc = true
 
-s.dependency "WJHttpServceAPI"
+s.dependency "WJHttpServiceAPI"
 
 end
