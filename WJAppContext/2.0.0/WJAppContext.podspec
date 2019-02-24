@@ -1,7 +1,7 @@
 Pod::Spec.new do |s|
 
 s.name             = "WJAppContext"
-s.version          = "2.0-beta2"
+s.version          = "2.0.0"
 s.summary          = "WJAppContext is a modular solution."
 
 
