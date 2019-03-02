@@ -30,6 +30,6 @@ s.frameworks = "Foundation", "UIKit"
 
 s.requires_arc = true
 
-s.dependency "WJHttpServceAPI"
+s.dependency "WJHttpServiceAPI"
 
 end
